@@ -1,7 +1,7 @@
 # Minesweeper game
-A version of ***Minesweeper*** that is written by ***c++**</br>
+A version of ***Minesweeper*** that is written by ***c++***</br>
 Also using ***Clui*** libary in this projects that is written by SBU student -> [link](https://github.com/SBU-CE/clui)</br>
-##Set up
+#Set up
 1. Download code:https://github.com/simbovk/mabani
 2. Compile c++ file with g++ main.cpp Commands
 3. Enjoy game:)
